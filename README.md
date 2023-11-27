@@ -18,11 +18,11 @@ Results:
 ### Results: Girl with a Pearl Earring
 Content image:
 
-![content_nap](/images/content_naples_landscape.jfif)
+![content_nap](/images/content_portrait.jfif)
 
 Results:
 
-![results_nap](/images/content_portrait.jfif)
+![results_nap](/images/results_portrait.png)
 
 ### Credits
 Project deployed in collab with Alberto Di Maro.
